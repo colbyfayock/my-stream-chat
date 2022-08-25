@@ -1,0 +1,49 @@
+html,
+body {
+  color: white;
+  background-color: #211f1f;
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+[type="text"] {
+  border: none;
+  background-color: white;
+  border: solid 2px lightgray;
+  border-radius: .2em;
+  padding: .5em .8em;
+}
+
+input + button,
+button + button {
+  margin-left: .5em;
+}
+
+button {
+  color: white;
+  background-color: blueviolet;
+  border-radius: .2em;
+  border: solid 2px blueviolet;
+  padding: .5em .8em;
+}

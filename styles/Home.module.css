@@ -1,0 +1,28 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  height: 100vh;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stream {
+  display: flex;
+  width: 1200px;
+}
+
+.stream > div {
+  flex-grow: 1;
+}
+
+.streamVideo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
