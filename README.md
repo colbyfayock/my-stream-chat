@@ -1,6 +1,6 @@
-# Tutorial
+# Adding Live Chat to a Next.js App with Synced Message Replay using Stream
 
-Demo for tutorial [TBA](https://www.youtube.com/colbyfayock)
+Demo for tutorial [Adding Live Chat to a Next.js App with Synced Message Replay using Stream](https://www.youtube.com/colbyfayock)
 
 📺 YouTube: Coming Soon...
 
